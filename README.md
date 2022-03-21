@@ -3,12 +3,17 @@
 
 In this analysis, we generated a set of 2,000 random latitudes and longitudes and retrieved the nearest city. Then, we perform an API call with the OpenWeatherMap and retrieved the following information:
 
-•	Latitude and longitude
-•	Maximum temperature
-•	Percent humidity
-•	Percent cloudiness
-•	Wind speed
-•	Weather description (for example, clouds, fog, light rain, clear sky)
+ •	Latitude and longitude
+ 
+ •	Maximum temperature
+ 
+ •	Percent humidity
+ 
+ •	Percent cloudiness
+ 
+ •	Wind speed
+ 
+ •	Weather description (for example, clouds, fog, light rain, clear sky)
 
 ![Picture1](https://user-images.githubusercontent.com/66279829/159218322-adaa52f5-e2e0-45de-af00-5ff37bd43b79.png)
 
